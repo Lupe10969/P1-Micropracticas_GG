@@ -1,0 +1,6 @@
+número de estudiantes: INT, Variable, puede modificarse a lo largo del tiempo
+nota media: DOUBLE, Constante, siempre se sabe que la media es la division decimal resultante de dos variables
+matrícula activa: BOOLEAN, puede ser verdadero o falso
+inicial de grupo: CHAR, la inicial seria un solo caracter sencillo
+nombre completo: STRING, texto plano
+población de 8.000.000.000: LONG, es un entero de 64bits

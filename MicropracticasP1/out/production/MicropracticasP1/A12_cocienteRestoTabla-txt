@@ -1,0 +1,6 @@
+Resultado esperado: Que aparezca en consola las horas y minutos solicitadas.
+Resultado obtenido: Hace un print de horas y minutos.
+Explicacion: Se sabe que en una hora hay 60 minutos, por lo que la variable (Los minutos que necesitamos transformar)
+se deben de dividir con 60 (la constante), pero luego para poder ver que minutos son los que quedarian, es calcular el
+resto de la division de m / 6o, (siendo m minutos a transformar)
+
